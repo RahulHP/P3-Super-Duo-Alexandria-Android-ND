@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rahulhp/Footbal/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/rahulhp/Footbal/Football_Scores-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-fd630ab02a022d25ee0644411b960673396193bf.jar" />
+    </item>
+    <item
+        jar="/home/rahulhp/Footbal/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/rahulhp/Footbal/Football_Scores-master/app/build/intermediates/pre-dexed/debug/classes-fd95284bcb4428093f7ad3eee27b8558ceeddd8c.jar" />
+    </item>
+    <item
+        jar="/home/rahulhp/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/rahulhp/Footbal/Football_Scores-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-3f24ecbbc7b9a1c38d5ce5de0696ff5c974b0111.jar" />
+    </item>
+    <item
+        jar="/home/rahulhp/Footbal/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/rahulhp/Footbal/Football_Scores-master/app/build/intermediates/pre-dexed/debug/classes-c54937cc4e81e446159ee617ef60abccf2770efe.jar" />
+    </item>
+
+</items>
